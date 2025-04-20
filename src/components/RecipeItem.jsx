@@ -1,4 +1,4 @@
-import Classes from "./Recipeitem.module.css";
+import Classes from "./RecipeItem.module.css";
 
 const RecipeItem = (props) => {
   return (
